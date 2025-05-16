@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ВСТАВ СЮДИ СВІЙ ТОКЕН
-TOKEN = "ВСТАВ_СЮДИ_СВІЙ_ТОКЕН"
+TOKEN = "7498932756:AAEgEn_7apITPxdi8FPkSEnccO_2ab8xvE0"
 
 # Партнерські посилання
 credit_links = [
